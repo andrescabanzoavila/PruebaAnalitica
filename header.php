@@ -14,8 +14,13 @@ include ("Css/estilo.html");
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
+
       <li class="nav-item active">
-        <a class="nav-link" href="/PruebaAnalitica/index.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/PruebaAnalitica/JSON/index.php">Insercion <span class="sr-only">(current)</span></a>
+      </li>
+
+      <li class="nav-item active">
+        <a class="nav-link" href="/PruebaAnalitica/index.php">Consulta <span class="sr-only">(current)</span></a>
       </li>
 
        <li class="nav-item active">
@@ -25,6 +30,8 @@ include ("Css/estilo.html");
        <li class="nav-item active">
         <a class="nav-link" href="/PruebaAnalitica/Bases/QueryFinal2.php">Consulta 2 <span class="sr-only">(current)</span></a>
       </li>
+
+    
     
     </ul>
     <form class="form-inline my-2 my-lg-0">

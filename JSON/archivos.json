@@ -1,0 +1,40 @@
+
+
+[  
+   {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 1",  
+     "tipoarchivo": "XML"  
+   },  
+   
+   {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 2",  
+     "tipoarchivo": "PDF"  
+   },
+   {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 3",  
+     "tipoarchivo": "XML"  
+   },
+   {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 4",  
+     "tipoarchivo": "PDF"  
+   },
+     {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 5",  
+     "tipoarchivo": "XML"  
+   },
+     {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 6",  
+     "tipoarchivo": "XML"  
+   },
+     {  
+     "fecha": "2019-07-01 00:00:00",  
+     "descripcion": "descripcion 7",  
+     "tipoarchivo": "XML"  
+   }
+ ]

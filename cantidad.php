@@ -13,7 +13,6 @@ $sql = "SELECT count(ID) from Registros where ID in ($parametro) ";
 $result = $conn->query($sql);  
 ?>
   
-<body onload="document.consultamodificar.submit()">
 
 <?php 
 
@@ -26,7 +25,7 @@ while ($row = mysqli_fetch_row($result)){
     	  <center><h1>Descripcion de Registros</h1></center>
 
 
-<form method='post' id='userform' name="consultamodificar" action='consultaModificar.php'> <tr>
+<form method='post' id='userform' name="consultamodificar" action=''> <tr>
 
      
 
